@@ -1,0 +1,29 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+@import url(http://fonts.googleapis.com/css?family=Londrina+Outline);
+
+body {
+	font-family: 'Lato', Calibri, Arial, sans-serif;
+	color: #332F2D;
+	background: #FFFFFF;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+a {
+	text-decoration: none;
+	color: #f0f0f0;
+	outline: none;
+}
+
+a:hover {
+	color: #ffffff;
+}
+
+header {
+    text-align: center;
+    padding: 1em;
+}
+.category {
+    display: none;
+    visibility: hidden;
+}
